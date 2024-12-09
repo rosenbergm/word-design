@@ -78,7 +78,7 @@ to solve for.
 
 The experiment was done on an AMD Ryzen 7 7840U (3.3 GHz, 8x2 threads) and 64 GB of RAM running Arch Linux.
 
-## Time per number of words
+### Time per number of words
 
 All these cases were satisfiable. After the last attempt, the time to solve
 was just way to high.
